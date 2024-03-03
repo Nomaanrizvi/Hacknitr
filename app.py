@@ -131,7 +131,7 @@ def yolo(image_):
 
 
 # Title aligned to the center
-st.markdown("<h1 style='text-align: center;'>Image Segmentaion App</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>Leukemia Segmentaion App</h1>", unsafe_allow_html=True)
 
 
 # Model selection
